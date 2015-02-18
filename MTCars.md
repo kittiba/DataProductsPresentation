@@ -1,7 +1,8 @@
-MTCars
+Covariates Prediction Accuracy Calculator
 ========================================================
 author: kittiba
-date: 2/16/2015
+date: 17 February 2015
+
 
 First Slide
 ========================================================
